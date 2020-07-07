@@ -5,8 +5,9 @@ title: About me
 ### TL;DR
 * Gets excited about plants and algae 
 * Even more excited when programming and mapping is involved
-*Pen and paper enthusiast
+* Pen and paper enthusiast
 
-By day I’m a Technician at the UBC Herbarium and the Martone Lab. On the side I help run RLadies Vancouver, the UBC R Study Group and a member of the Richmond Museum Society.
+By day I am a Projects Data Coordinator at NCEAS. On the side I help run RLadies Vancouver.
 
 ### CV
+[Download here](files/cv.pdf)
